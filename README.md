@@ -9,6 +9,7 @@ J'ai un grand intérêt pour la 🛡️**cybersécurité** et le 🌐**réseau**
 - Utilisé Cisco Packet Tracer
 - Utilisé un environnement Linux
 
+
 - 🌱 J'apprend le JavaScript & Pyton 🐍
 - 📫 Me contacter: Via LinkedIn, par mail..
 - 😄 Pronouns: Il/lui
