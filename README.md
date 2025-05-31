@@ -1,16 +1,14 @@
-## Hi there 👋
+## 💻Hello world !
+![bannière github Alan](https://github.com/user-attachments/assets/789c80c3-63c0-4dd4-b679-d958648c4c7a)
 
-<!--
-**alangaubert/alangaubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut! Je m'appelle Alan Gaubert et je suis étudiant en Réseaux & Télécommunications à l'IUT de Béthune. 🏫 
 
-Here are some ideas to get you started:
+J'ai un grand intérêt pour la 🛡️**cybersécurité** et le 🌐**réseau**! J'essaie aussi de développer un peu en apprenant l'**HTML**, le **CSS**, le **Python** et le **JavaScript** !
+**Compétences**:
+- Mettre en place un réseau
+- Utilisé Cisco Packet Tracer
+- Utilisé un environnement Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 J'apprend le JavaScript & Pyton 🐍
+- 📫 Me contacter: Via LinkedIn, par mail..
+- 😄 Pronouns: Il/lui
