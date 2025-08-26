@@ -1,5 +1,5 @@
 ## 💻Hello world !
-![bannière github Alan](https://github.com/user-attachments/assets/789c80c3-63c0-4dd4-b679-d958648c4c7a)
+![bannière github Alan](https://github.com/alangaubert/alangaubert/blob/main/banner_alan-gaubert.png)
 
 Salut! Je m'appelle Alan Gaubert et je suis étudiant en Réseaux & Télécommunications à l'IUT de Béthune. 🏫 
 
